@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-<!-- 今回は初回なので、仮のファイルを用意しましたが、今後は指示に従い、
-    自分でファイルを作っていって下さい -->
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
@@ -8,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <!-- この領域(bodyタグ内)に処理内容を入れてください -->
+    Hello.php
+<a href="hello.php">課題
+</a>
 </body>
 </html>
