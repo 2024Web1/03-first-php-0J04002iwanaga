@@ -6,10 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
     Hello.php
-<a href="hello.php">課題
-?>
 </a>
 </body>
 </html>
