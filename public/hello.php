@@ -1,4 +1,4 @@
-<!DOCTYPE php>
+<!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
@@ -6,8 +6,10 @@
     <title>Document</title>
 </head>
 <body>
+    <?php
     Hello.php
 <a href="hello.php">課題
+?>
 </a>
 </body>
-</php>
+</html>
