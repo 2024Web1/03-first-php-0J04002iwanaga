@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE php>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
@@ -10,4 +10,4 @@
 <a href="hello.php">課題
 </a>
 </body>
-</html>
+</php>
